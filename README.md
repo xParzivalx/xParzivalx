@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xParzivalx
-- 👀 I’m interested in FiveM
+- 👀 I’m interested in Web3
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Condenados RP
+- 💞️ I’m looking to collaborate on Z-Hash
 - 📫 How to reach me ...
 
 <!---
