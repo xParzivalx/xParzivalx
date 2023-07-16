@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m1000
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Z-Hash
+- 💞️ I’m looking to collaborate on FocusAI
 - 📫 How to reach me ...
 
 <!---
